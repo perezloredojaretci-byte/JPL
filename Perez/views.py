@@ -1,4 +1,4 @@
 from django.shortcuts import render
 
 def inicio (request):
-    return render (request,"JPL/inicio.html")
+    return render (request, "Perez/inicio.html")
